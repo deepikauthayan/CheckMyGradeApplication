@@ -1,0 +1,13 @@
+﻿first_name,last_name,email,course_id,grade,marks
+lish,uth,lish@sjsu,CS101,B,70
+John,Doe,john.doe@example.com,CS101,A,89
+Jane,Smith,jane.smith@example.com,CS102,B+,78
+Alice,Johnson,alice.johnson@example.com,CS103,A-,85
+Bob,Brown,bob.brown@example.com,CS101,B,74
+Charlie,Green,charlie.green@example.com,CS102,A,91
+Deepika,Singh,deepika@sjsu,CS101,A,92
+Deepika,Singh,deepika@sjsu,CS102,B+,80
+Deepika,Singh,deepika@sjsu,CS103,A-,88
+Deepika,Singh,deepika@sjsu,C104,B,75
+Deepika,Singh,deepika@sjsu,CS105,A,94
+uth,aru,arul@sjsu,CS101,A,90
